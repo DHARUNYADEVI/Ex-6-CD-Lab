@@ -50,7 +50,8 @@ int main()
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/47f2e724-5be9-4e42-8a9a-10522c7ac10f)
 
-#Program Output:
+# Program Output:
+
 ![image](https://github.com/user-attachments/assets/ed2e82cc-f395-43fd-ba6b-68b35307302d)
 
 # Result
